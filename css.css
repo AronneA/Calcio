@@ -1,0 +1,40 @@
+body{
+    background: black url("stadio.jpg") no-repeat;
+    background-size: cover;
+}
+.div{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 20px;
+    margin-top: 90px;
+}
+.h1{
+    font-size: 50px !important;
+    color: white;
+}
+.p{
+    margin-left: 10px;
+    color: white;
+    font-size: 50px;
+    margin-top: 40px;
+    
+}
+.a{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color:white;
+}
+.co{
+    color: white;
+}
+.li{
+    color: white;
+    font-size: 50px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.bu{
+    padding: 38px 38px;
+}
